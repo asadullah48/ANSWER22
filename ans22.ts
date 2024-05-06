@@ -4,7 +4,7 @@ let guests: string [] = ["222", "123r", "435", "13",];// Intentional error
 let list: string [] = ["Usman", "Mansoor", "Mohsin", "Sultan", "Ifraheem", "Zakariyah", "Asadullah"];// correction done
 for (let name of list){
     console.log(`Assalaam O Alikum ${name}, kindly attend iftar with me`)
-}; // Intentional Error
+};
 
 
 
